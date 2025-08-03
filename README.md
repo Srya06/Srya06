@@ -1,11 +1,5 @@
 <h1 align="center">👋 Hi, I'm Surya</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0891B2&width=435&lines=Frontend+Developer;Lifelong+Learner+💡;React+%7C+Node+%7C+JS+%7C+Python" alt="Typing animation" />
-</p>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding animation" />
-
 ---
 
 ### 💼 About Me

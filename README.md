@@ -63,11 +63,9 @@ I love turning ideas into reality through code and take pride in crafting clean,
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" alt="GitHub" />
   </a>
   <a href="mailto:sryaraj06@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/google.svg" width="32" alt="Email" />
+    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="32" alt="Email" />
   </a>
 </p>
-
----
 
 ### 🌟 Featured Interests
 

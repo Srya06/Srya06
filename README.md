@@ -1,23 +1,29 @@
-<!-- Profile Header -->
-<h1 align="left">👋 Hi, My name is Surya</h1>
-<h3 align="left">Frontend Developer</h3>
+<h1 align="center">👋 Hi, I'm Surya</h1>
 
-<p align="left">
-  <strong>🌟 Frontend Developer | Tech Enthusiast | Lifelong Learner</strong><br><br>
-  Hello! I'm a passionate frontend developer with a strong focus on creating responsive, intuitive, and visually engaging web interfaces. I'm currently expanding my skill set by working with <strong>ReactJS</strong> and <strong>NodeJS</strong>, while also exploring the versatility of <strong>Python</strong> and deepening my understanding of <strong>Data Structures and Algorithms (DSA)</strong>.<br><br>
-  I enjoy solving real-world problems through clean code and thoughtful design. My goal is to build impactful digital experiences and continuously evolve as a developer by learning, building, and collaborating.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0891B2&width=435&lines=Frontend+Developer;Lifelong+Learner+💡;React+%7C+Node+%7C+JS+%7C+Python" alt="Typing animation" />
 </p>
 
----
-
-- 📍 I'm based in India  
-- 📫 You can contact me at <a href="mailto:sryaraj06@gmail.com">sryaraj06@gmail.com</a>  
-- 🧠 I'm learning Python, JavaScript, Node.js  
-- 🤝 I'm open to collaborating on Projects exploring real-time web features (chat apps, dashboards, etc.)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding animation" />
 
 ---
 
-### 🛠️ Skills
+### 💼 About Me
+
+I'm a passionate frontend developer with a strong focus on building responsive, intuitive, and visually appealing web applications. I’m currently expanding my skill set by working with <strong>React.js</strong> and <strong>Node.js</strong>, diving into the flexibility of <strong>Python</strong>, and strengthening my foundation in <strong>Data Structures and Algorithms (DSA)</strong>.
+
+I enjoy solving real-world problems through clean, scalable code and thoughtful design. My mission is to craft impactful digital experiences and grow continuously as a developer by learning, building, and collaborating.
+
+---
+
+- 📍 Based in India  
+- 📫 Reach me at: [sryaraj06@gmail.com](mailto:sryaraj06@gmail.com)  
+- 🧠 Currently exploring: JavaScript, Python, Node.js  
+- 🤝 Open to collaborate on: Real-time web apps (chat systems, dashboards, etc.)
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -33,22 +39,26 @@
 
 ---
 
-### 🌐 Socials
+### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.github.com/Srya06" target="_blank">
+  <a href="https://github.com/Srya06" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-### 🏅 Badges
+### 📊 GitHub Stats
 
-#### <b>My GitHub Stats</b>
+<a href="https://github.com/Srya06">
+  <img src="https://github-readme-stats.vercel.app/api?username=Srya06&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Surya's GitHub Stats" />
+</a>
 
-<a href="http://www.github.com/Srya06"><img src="https://github-readme-stats.vercel.app/api?username=Srya06&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Srya06's GitHub stats" /></a>
+<a href="https://github.com/Srya06">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srya06&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Surya's GitHub Streak" />
+</a>
 
-<a href="http://www.github.com/Srya06"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Srya06&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Srya06"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srya06&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Srya06">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srya06&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</a>
